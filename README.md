@@ -1,5 +1,5 @@
 # INSTACLE
-TechFolio Mobile App.
+INSTACLE Mobile App.
 
 # Features
 * Share Projects
@@ -22,7 +22,7 @@ TechFolio Mobile App.
 <img src="assets/images/screenshot/onboarding.png">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/screenshot/signup.png"> 
 
 # Sign In Screen
 <img src="assets/images/screenshot/login.png">  
