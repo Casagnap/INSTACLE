@@ -29,3 +29,6 @@ INSTACLE Mobile App.
 
 # Tabs Screen
 <img src="assets/images/screenshot/s4.jpg">  
+
+# Walkthrough
+[Instacle App Walkthrough](https://youtu.be/3sJgq9cBSBE)
